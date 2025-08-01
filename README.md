@@ -1,5 +1,8 @@
 # 💫 About Me:
-🧑‍🎓I'm currently pursuing MCA
+🧑‍🎓 Aspiring Frontend Software Engineer with a solid foundation in JavaScript and experience in developing dynamic and responsive web 
+applications during an internship at Webguru Infosystems. Proficient in ReactJS and Figma, with a focus on enhancing user experience 
+and engagement. Holds a Master's in Computer Applications, eager to leverage technical skills to create innovative and efficient frontend 
+solutions.
 
 
 ## 🌐 Socials:
