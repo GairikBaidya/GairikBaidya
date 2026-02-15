@@ -1,8 +1,7 @@
 # 💫 About Me:
-🧑‍🎓 Aspiring Frontend Software Engineer with a solid foundation in JavaScript and experience in developing dynamic and responsive web 
-applications during an internship at Webguru Infosystems. Proficient in ReactJS and Figma, with a focus on enhancing user experience 
-and engagement. Holds a Master's in Computer Applications, eager to leverage technical skills to create innovative and efficient frontend 
-solutions.
+🧑‍🎓Early-career full-stack developer with hands-on experience building web applications. Delivered a responsive React web app with
+Tailwind CSS, integrating backend APIs using Node.js and MongoDB. Implemented server-side logic to manage data efficiently,
+enhancing performance and reliability. Aiming to leverage full-stack expertise to create robust, user-focused solutions.
 
 
 ## 🌐 Socials:
