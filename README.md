@@ -8,10 +8,8 @@
 
 <br/><br/>
 
-<!-- Profile Views & Social Badges -->
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=GairikBaidya&label=Profile%20Views&color=6&icon=5&pretty=true"/>
-</a>
+<!-- Profile Views & Social Badges — komarev.com is the most reliable view counter -->
+<img src="https://komarev.com/ghpvc/?username=GairikBaidya&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 &nbsp;
 <a href="https://www.linkedin.com/in/gairikbaidya/">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -152,7 +150,7 @@ passions:
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GairikBaidya&theme=tokyo-night&hide_border=true&area=true&radius=8" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GairikBaidya&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&area_color=bf91f3&hide_border=true" width="100%"/>
 
 </div>
 
@@ -161,7 +159,7 @@ passions:
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GairikBaidya&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=GairikBaidya&theme=tokyonight&no-frame=true&no-bg=false&margin-w=8&column=7" width="100%"/>
 </div>
 
 ---
